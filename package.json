@@ -1,0 +1,22 @@
+{
+  "name": "test-1",
+  "version": "1.0.0",
+  "description": "A test repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NitayRabi/test-1.git"
+  },
+  "author": "Nitay Rabinovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NitayRabi/test-1/issues"
+  },
+  "homepage": "https://github.com/NitayRabi/test-1#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
